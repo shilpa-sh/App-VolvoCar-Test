@@ -1,0 +1,9 @@
+body {
+  background: steelblue;
+  color: white;
+  overflow-x: hidden;
+}
+
+* {
+  box-sizing: border-box;
+}
